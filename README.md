@@ -2,7 +2,7 @@
 
 ## Available enpoints (Update with your localhost:XXXX)
 * [Get] http://localhost:5000/template-api/v1/notes/{id}
-* [Get] http://localhost:5000/template-api/v1/notes
+* [Get] http://localhost:5000/template-api/v1/notes  (Get All items)
 
 * [Post] http://localhost:5000/template-api/v1/notes
     * Payload ex:
